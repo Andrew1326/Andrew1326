@@ -8,6 +8,3 @@ My name is Andrew and I'm web developer from Ukraine. I am an experienced develo
 ![](https://github-readme-stats.vercel.app/api?username=Andrew1326&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrew1326&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew1326&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Andrew1326&icon=2&color=0)](https://visitcount.itsvg.in)

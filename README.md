@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 My name is Andrew and I'm web developer from Ukraine. I am an experienced developer specializing in Frontend development. I'm also familiar with the modern technologies and methodologies of web development and I'm constantly learning new ones. I have experience in working on real commercial projects, unfortunately I can't show them, but you can view my pet-projects here. I really like creating websites, because it's good ability to create or append something new, for example modern adaptive design, interactivity, animations, transitions.
 
 

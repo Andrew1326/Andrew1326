@@ -1,5 +1,9 @@
 # About Me:
-I'm working in full stack web development. Having plenty of experience, enjoy exploring and contributing to modern technology. Applying some methodologies for better app quality: SOLID, OOP, AOP, FP.  <br><br>Interested in AI development, constantly exploring updates. Worked for a while with models, such as: CodeLlama, Llama 2, ChatGPT.<br><br>Prefer making amazing things using the code.<br>
+Interested in entrepreneurship, development and sport. Like to solve complex tasks. Constantly contributing to various projects.
+
+Prefer making amazing things using modern technology.
+
+Contact me: andrei47892@gmail.com
 
 
 # 💻 Tech Stack:

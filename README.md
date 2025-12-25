@@ -14,7 +14,7 @@ I've founded multiple products and delivered solutions serving thousands of user
 
 **Contact me:**
 
-[![Email](https://img.shields.io/badge/Email-andrei47892@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei47892@gmail.com)
+[![Email](https://img.shields.io/badge/Email-andreimanzhola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreimanzhola@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-m-372a8133b/)
 [![Calendly](https://img.shields.io/badge/Calendly-Schedule_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/andrei47892/30min)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andriox1)

@@ -1,9 +1,24 @@
 # About Me:
-Interested in entrepreneurship, development and sport. Like to solve complex tasks. Constantly contributing to various projects.
 
-Prefer making amazing things using modern technology.
+Full-stack developer and entrepreneur with 3+ years building production-grade web applications. I specialize in TypeScript ecosystems, designing scalable architectures for SaaS platforms, CRM systems, and e-commerce solutions.
 
-Contact me: andrei47892@gmail.com
+**What I bring to the table:**
+
+- End-to-end product development from architecture to deployment
+- Performance optimization at database and application layers
+- Complex third-party integrations (payments, communications, CRMs)
+- Multilingual applications with i18n and RTL support
+- CI/CD pipelines and containerized deployments
+
+I've founded multiple products and delivered solutions serving thousands of users across EdTech, e-commerce, and business automation domains. Passionate about building things that matter — always open to partnerships, collaborations, and interesting projects.
+
+**Contact me:**
+
+[![Email](https://img.shields.io/badge/Email-andrei47892@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei47892@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-m-372a8133b/)
+[![Calendly](https://img.shields.io/badge/Calendly-Schedule_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/andrei47892/30min)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andriox1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+351_913_509_213-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351913509213)
 
 
 # 💻 Tech Stack:

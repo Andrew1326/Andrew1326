@@ -29,8 +29,6 @@ Eight products taken from idea to production — I own the architecture on all o
 | **Live Bridge** | Live speech translation running entirely on local AI — Whisper + NLLB on GPU, sub-second turnaround, no cloud dependency. | — |
 | **3D Drone Tour** | Browser-native 3D tour engine — drone capture turned into a navigable property walkthrough with floor-plan sync. | — |
 
-I also run **[Voidscreen](https://voidscreen.sk)**, my software studio, and build client products through it.
-
 ---
 
 ## 🛠 How I work

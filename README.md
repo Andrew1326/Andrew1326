@@ -2,8 +2,7 @@
 
 <p align="left">
   <b>Co-Founder @ <a href="https://seog.ai">SEOG</a> · software architect · AI-agent engineer</b><br/>
-  I design and ship AI SaaS products end to end — architecture, backend, frontend, infra, launch.<br/>
-  Based in Guimarães, Portugal 🇵🇹
+  I design and ship AI SaaS products end to end — architecture, backend, frontend, infra, launch.
 </p>
 
 <p align="left">

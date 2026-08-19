@@ -9,7 +9,6 @@
   <a href="mailto:andreimanzhola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/andrii-manzhola-372a8133b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://calendly.com/andrei47892/30min"><img src="https://img.shields.io/badge/Book_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/></a>
-  <a href="https://t.me/Andriox1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ---

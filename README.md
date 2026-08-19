@@ -1,25 +1,109 @@
-# About Me:
+<h1 align="left">Andrii Manzhola</h1>
 
-Full-stack developer and entrepreneur with 3+ years building production-grade web applications. I specialize in TypeScript ecosystems, designing scalable architectures for SaaS platforms, CRM systems, and e-commerce solutions.
+<p align="left">
+  <b>Co-Founder @ <a href="https://seog.ai">SEOG</a> · software architect · AI-agent engineer</b><br/>
+  I design and ship AI SaaS products end to end — architecture, backend, frontend, infra, launch.<br/>
+  Based in Guimarães, Portugal 🇵🇹
+</p>
 
-**What I bring to the table:**
+<p align="left">
+  <a href="mailto:andreimanzhola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/andrii-manzhola-372a8133b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://calendly.com/andrei47892/30min"><img src="https://img.shields.io/badge/Book_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/></a>
+  <a href="https://t.me/Andriox1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
-- End-to-end product development from architecture to deployment
-- Performance optimization at database and application layers
-- Complex third-party integrations (payments, communications, CRMs)
-- Multilingual applications with i18n and RTL support
-- CI/CD pipelines and containerized deployments
+---
 
-I've founded multiple products and delivered solutions serving thousands of users across EdTech, e-commerce, and business automation domains. Passionate about building things that matter — always open to partnerships, collaborations, and interesting projects.
+## 🚀 What I'm building
 
-**Contact me:**
+Eight products taken from idea to production — I own the architecture on all of them and write most of the code.
 
-[![Email](https://img.shields.io/badge/Email-andreimanzhola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreimanzhola@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-manzhola-372a8133b)
-[![Calendly](https://img.shields.io/badge/Calendly-Schedule_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/andrei47892/30min)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andriox1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+351_913_509_213-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351913509213)
+| Product | What it does | |
+| --- | --- | --- |
+| **SEOG** | AI local-SEO platform — Google Business Profile management, map-pack geo-grid rank tracking, review sync + published replies, competitor and AI-visibility intelligence. NestJS + Next.js, with an MCP server so agents can run local SEO from the terminal. | [seog.ai](https://seog.ai) |
+| **VidVibe** | AI video platform — generation, editing and multi-channel publishing. Next.js app, NestJS + BullMQ pipeline, FastAPI ML service (speech-to-text, smart reframe). | [vidvibe.io](https://vidvibe.io) |
+| **Terminal Skills** | Marketplace and open library of AI-agent skills — portable `SKILL.md` files for Claude Code, Codex, Gemini CLI and Cursor, plus an npm CLI and an LLM-backed validator. | [terminalskills.io](https://terminalskills.io) |
+| **c10r** | Multi-tenant CRM with an AI gateway on top — task routing across hosted and self-hosted models, receipt parsing, voice UI, workspace-level identity. | [c10r.io](https://c10r.io) |
+| **Skyline** | Deployment platform that takes a local-business site from repo to live on Cloudflare — stateless control panel driving the Cloudflare and GitHub APIs. | — |
+| **Card Forge** | Multi-tenant SaaS for digital smart cards — sellers create, theme and manage cards; image generation built into the editor. | — |
+| **Live Bridge** | Live speech translation running entirely on local AI — Whisper + NLLB on GPU, sub-second turnaround, no cloud dependency. | — |
+| **3D Drone Tour** | Browser-native 3D tour engine — drone capture turned into a navigable property walkthrough with floor-plan sync. | — |
 
+I also run **[Voidscreen](https://voidscreen.sk)**, my software studio, and build client products through it.
 
-# 💻 Tech Stack:
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+---
+
+## 🛠 How I work
+
+**Architecture.** Multi-tenant SaaS, event-driven backends, monorepos with shared contracts, Postgres/Mongo data modelling, and the boring discipline that keeps them maintainable — typed boundaries, migrations, real CI.
+
+**AI-agent engineering.** This is where most of my time goes now: agent orchestration and fleets, MCP servers and tool design, RAG with vector search, self-hosted inference next to hosted models with failover routing, and OpenTelemetry-based observability so agent behaviour is measurable instead of vibes.
+
+**Infrastructure.** Docker, Cloudflare Workers, Coolify, GPU boxes for local inference, LGTM stack for metrics/logs/traces. I deploy what I build and I'm on call for it.
+
+**Product.** Payments, auth, i18n and RTL, SEO, transactional email, and the unglamorous integration work that decides whether a product actually ships.
+
+---
+
+## 📖 Open source
+
+- **[TerminalSkills/skills](https://github.com/TerminalSkills/skills)** — open library of AI-agent skills. `SKILL.md` files that drop into Claude Code, Codex, Gemini CLI or Cursor and teach an agent a task.
+- **[seog-ai/local-seo-manual](https://github.com/seog-ai/local-seo-manual)** — a free, hands-on manual for local SEO: how Google ranks businesses in the map pack, 49 chapters, real labs and a probe-verified field reference.
+
+---
+
+## ⚙️ Stack
+
+**Languages**\
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**\
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Frontend**\
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**AI / agents**\
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+
+**Data**\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Infra & observability**\
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+<p align="left">
+  Open to partnerships, product collaborations and interesting architecture problems.<br/>
+  <a href="https://calendly.com/andrei47892/30min"><b>Book 30 minutes →</b></a>
+</p>

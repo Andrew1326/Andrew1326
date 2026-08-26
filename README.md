@@ -23,9 +23,9 @@ Eight products taken from idea to production — I own the architecture on all o
 | **VidVibe** | AI video platform — generation, editing and multi-channel publishing. Next.js app, NestJS + BullMQ pipeline, FastAPI ML service (speech-to-text, smart reframe). | [vidvibe.io](https://vidvibe.io) |
 | **Terminal Skills** | Marketplace and open library of AI-agent skills — portable `SKILL.md` files for Claude Code, Codex, Gemini CLI and Cursor, plus an npm CLI and an LLM-backed validator. | [terminalskills.io](https://terminalskills.io) |
 | **c10r** | Multi-tenant CRM with an AI gateway on top — task routing across hosted and self-hosted models, receipt parsing, voice UI, workspace-level identity. | [c10r.io](https://c10r.io) |
-| **Skyline** | Deployment platform that takes a local-business site from repo to live on Cloudflare — stateless control panel driving the Cloudflare and GitHub APIs. | — |
+| **Skyline** | Self-hostable deployment platform for Next.js — "your own Vercel" on Cloudflare. One panel creates a GitHub repo per site, builds it with Actions + OpenNext, serves it on Workers, and manages custom domains, DNS, env vars, an R2 asset CDN and instant rollbacks. No database — GitHub and Cloudflare *are* the state. | [skylinesite.com](https://skylinesite.com) |
 | **Card Forge** | Multi-tenant SaaS for digital smart cards — sellers create, theme and manage cards; image generation built into the editor. | — |
-| **Live Bridge** | Live speech translation running entirely on local AI — Whisper + NLLB on GPU, sub-second turnaround, no cloud dependency. | — |
+| **OmniVerbis** | Realtime speech and document translation. Conference mode (audience scans a QR code, each listener picks their language) and two-person conversation mode; NestJS + socket.io streaming with pluggable providers — Google STT + Translation by default, self-hosted Whisper + NLLB on GPU as an opt-in. | [omniverbis.com](https://omniverbis.com) |
 | **3D Drone Tour** | Browser-native 3D tour engine — drone capture turned into a navigable property walkthrough with floor-plan sync. | — |
 
 ---

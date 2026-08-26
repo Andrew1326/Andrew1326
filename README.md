@@ -19,14 +19,14 @@ Eight products taken from idea to production — I own the architecture on all o
 
 | Product | What it does | |
 | --- | --- | --- |
-| **SEOG** | AI local-SEO platform — Google Business Profile management, map-pack geo-grid rank tracking, review sync + published replies, competitor and AI-visibility intelligence. NestJS + Next.js, with an MCP server so agents can run local SEO from the terminal. | [seog.ai](https://seog.ai) |
-| **VidVibe** | AI video platform — generation, editing and multi-channel publishing. Next.js app, NestJS + BullMQ pipeline, FastAPI ML service (speech-to-text, smart reframe). | [vidvibe.io](https://vidvibe.io) |
-| **Terminal Skills** | Marketplace and open library of AI-agent skills — portable `SKILL.md` files for Claude Code, Codex, Gemini CLI and Cursor, plus an npm CLI and an LLM-backed validator. | [terminalskills.io](https://terminalskills.io) |
-| **c10r** | Multi-tenant CRM with an AI gateway on top — task routing across hosted and self-hosted models, receipt parsing, voice UI, workspace-level identity. | [c10r.io](https://c10r.io) |
+| **SEOG** | AI local-SEO platform — Google Business Profile management, map-pack rank tracking on a geo-grid, review sync with published replies, competitor and AI-visibility intelligence, and reports. Also usable straight from an AI agent's terminal. | [seog.ai](https://seog.ai) |
+| **VidVibe** | AI video platform — generate, edit and publish short-form video to multiple channels from one place, with brand kits, consistent characters and automated flows. | [vidvibe.io](https://vidvibe.io) |
+| **Terminal Skills** | Marketplace and open library of AI-agent skills — portable skill files that drop into the major coding agents, with a CLI to install them and automated validation of every submission. | [terminalskills.io](https://terminalskills.io) |
+| **c10r** | Multi-tenant CRM with an AI layer on top — document and receipt parsing, voice interface, and routing of AI tasks across providers with automatic failover. | [c10r.io](https://c10r.io) |
 | **Skyline** | Self-hostable deployment platform — "your own Vercel" on infrastructure you control. One panel takes a site from repo to live: push-to-deploy, build logs, custom domains and DNS, environment variables, asset CDN and instant rollbacks. | [skylinesite.com](https://skylinesite.com) |
-| **Card Forge** | Multi-tenant SaaS for digital smart cards — sellers create, theme and manage cards; image generation built into the editor. | — |
+| **Card Forge** | Multi-tenant SaaS for digital smart cards — sellers create, theme and manage cards for their customers, with AI image generation built into the editor. | — |
 | **OmniVerbis** | Realtime speech and document translation. Conference mode — the audience scans a QR code and each listener reads or hears the talk in their own language — plus a two-person conversation mode with one phone on the table. Captions land about a second after the speaker pauses. | [omniverbis.com](https://omniverbis.com) |
-| **3D Drone Tour** | Browser-native 3D tour engine — drone capture turned into a navigable property walkthrough with floor-plan sync. | — |
+| **3D Drone Tour** | Browser-native 3D property tours — drone footage turned into a navigable walkthrough with a synced floor plan, no app install. | — |
 
 ---
 
